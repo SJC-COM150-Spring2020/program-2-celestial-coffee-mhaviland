@@ -1,0 +1,9 @@
+I:\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\mhaviland\Projects\Celestial Coffee Project\Celestial Coffee Project\bin\Debug\Celestial Coffee Project.exe.config
+I:\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\mhaviland\Projects\Celestial Coffee Project\Celestial Coffee Project\bin\Debug\Celestial Coffee Project.exe
+I:\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\mhaviland\Projects\Celestial Coffee Project\Celestial Coffee Project\bin\Debug\Celestial Coffee Project.pdb
+I:\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\mhaviland\Projects\Celestial Coffee Project\Celestial Coffee Project\obj\Debug\Celestial Coffee Project.csprojResolveAssemblyReference.cache
+I:\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\mhaviland\Projects\Celestial Coffee Project\Celestial Coffee Project\obj\Debug\Celestial_Coffee_Project.celestialcoffee.resources
+I:\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\mhaviland\Projects\Celestial Coffee Project\Celestial Coffee Project\obj\Debug\Celestial_Coffee_Project.Properties.Resources.resources
+I:\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\mhaviland\Projects\Celestial Coffee Project\Celestial Coffee Project\obj\Debug\Celestial Coffee Project.csproj.GenerateResource.Cache
+I:\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\mhaviland\Projects\Celestial Coffee Project\Celestial Coffee Project\obj\Debug\Celestial Coffee Project.exe
+I:\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\mhaviland\Projects\Celestial Coffee Project\Celestial Coffee Project\obj\Debug\Celestial Coffee Project.pdb
